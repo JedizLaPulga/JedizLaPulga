@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JedizLaPulga
 - 👀 I’m interested in System programming and Development
-- 🌱 I’m currently working on C++ Golang and Typescript
+- 🌱 I’m currently working on D , Dart(Flutter), python and Javascript and occasionally C
 - 💞️ I’m looking to collaborate Any system programming project
 - 📫 How to reach me jedizlapulga@gmail.com
 
