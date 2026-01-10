@@ -81,7 +81,7 @@ impl Developer {
 |---------|-------------|------|
 | 🔧 **NNS** | High-performance network diagnostic toolkit with advanced traceroute, HTTP benchmarking, latency analysis, and comprehensive network statistics | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | ⚡ **Kese** | Production-ready Go web framework inspired by FastAPI. Features modular routing, middleware chains, built-in caching, and elegant context handling | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| 🖥️ **Novadesk** | Modern desktop application built for productivity and seamless user experience | ![Python](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| 🖥️ **Novadesk** | Modern desktop application built for productivity and seamless user experience | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
